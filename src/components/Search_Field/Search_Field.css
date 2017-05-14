@@ -1,0 +1,17 @@
+.textField{
+    width: 30%;
+    padding: 3px;
+    border: none;
+    font-size: 1.5em;
+    border-bottom: 2px solid teal;
+    margin: 0 auto 5px;
+}
+
+.button{
+    width:25%;
+    color: teal;
+    padding: 20px;
+    font-size: 0.8em;
+    font-weight: 600;
+    background: white;
+}

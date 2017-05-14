@@ -1,0 +1,19 @@
+.search { 
+    text-align: center;
+    padding-top: 20px;
+    font-family: times, serif;
+}
+
+.weatherType {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    height: 10%;
+    width: 10%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.weatherType-wrapper {
+    position: relative;
+    width: 100%;
+}
